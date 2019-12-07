@@ -1,6 +1,6 @@
 site_name: My Docs
-navy：
+navy: 
       - Home：index.md
-      -First：first.md
-theme：
+      - First：first.md
+theme: 
    name: 'material'
