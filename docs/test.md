@@ -31,4 +31,4 @@ c. 查询某出版社出版的书
 d. 查询杨铸借了什么书
 e．查询学生“李四”归还《酒店管理》的日期
 
-！[mkdocs](images/mkdocs.png)
+！[mkdocs](images/1.png)
